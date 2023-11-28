@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react.js Angular express springboot**
 
-- 📫 How to reach me **dora.kadri@esprit.tn**
+- 📫 How to reach me **dora.kadri@esprit.tn** or  **kadridorra9@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
